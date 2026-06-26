@@ -12,5 +12,6 @@
   </project>
   <project path="build/soong" name="soong" remote="elder" />
   <project path="vendor/qcom/opensource/commonsys/system/bt" name="vendor_qcom_opensource_system_bt" groups="qcom,pdk-qcom" remote="elder" />
+  <project path="vendor/elder" name="vendor_elder" remote="elder" />
 
 </manifest>
